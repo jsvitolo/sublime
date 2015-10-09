@@ -1,0 +1,19 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"AlignTab",
+		"BracketHighlighter",
+		"Dockerfile Syntax Highlighting",
+		"GitGutter",
+		"GitStatus",
+		"Material Theme",
+		"Package Control",
+		"SublimeCodeIntel",
+		"SyncedSideBar"
+	]
+}
